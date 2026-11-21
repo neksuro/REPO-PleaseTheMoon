@@ -1,0 +1,9 @@
+{
+	"name": "PleaseTheMoon",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/neksuro/REPO-PleaseTheMoon",
+	"description": "Brings back the Extraction Point 'stacking challenge' from the Halloween event (2026) without re-enabling the event itself. You can set the probability of it spawning on every level.",
+	"dependencies": [
+		"BepInEx-BepInExPack-5.4.2305"
+	]
+}
