@@ -1,4 +1,4 @@
-# :full_moon_with_face: Please The Moon
+# Please The Moon
 This simple mod brings back the Extraction Point "stacking challenge" from the Halloween event (2026) without re-enabling the event itself.
 
 ##### If you prefer to restore the entire Halloween event, you can either set your system calendar within the dates `Oct 15` - `Nov 15`, or check out this Thunderstore mod [MoonApproved](https://thunderstore.io/c/repo/p/Enderly_Mods/MoonApproved/) by **Enderly_Mods**.
@@ -8,7 +8,7 @@ Some players complained about spending too much time in the level stacking valua
 So I've created a configuration to allow you the option of enabling this feature while also being able to adjust the probability of it spawning.
 
 ## Configuration
-:warning: **The config file will only appear after running the game once while the mod is enabled** :warning:
+The config file located at `BepInEx/config/Neksuro.PleaseTheMoon.cfg` appears after first launch. The mod can also be configured in the **"Mod"** menu if [REPOConfig](https://thunderstore.io/c/repo/p/REPOModding/REPOConfig/) is installed.
 - **`Enable Extraction Pillars`** - (Default: `true`)
     > Set to `true` to enable the pillars, or `false` to disable it
 - **`Enable Random Spawn`** - (Default: `false`)
