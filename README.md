@@ -21,7 +21,7 @@ The config file located at `BepInEx/config/Neksuro.PleaseTheMoon.cfg` appears af
 - Configurable in [REPOConfig](https://thunderstore.io/c/repo/p/REPOModding/REPOConfig/)
 - Overrides the core Halloween event normaly enabled by the game
 
-# Notes
+## Notes
 - All players are required to install this mod for it to function properly
 - Configurations made by the host are determined for the entire lobby
 
